@@ -135,13 +135,13 @@ Colors of vowels are **a** - *red*, **e** - *orange*, **i** - *yellow*, **o** - 
 
 #### A Smiley
 
-[![SMILEY IMAGE 1](./examples_txt2img/smiley_px1.png)](./examples_txt2img/smiley_px1.txt)
-[![SMILEY IMAGE 2](./examples_txt2img/smiley_px2.png)](./examples_txt2img/smiley_px2.txt)
-[![SMILEY IMAGE 3](./examples_txt2img/smiley_px3.png)](./examples_txt2img/smiley_px3.txt)
+[![SMILEY IMAGE 1](./examples_txt2img/smiley_px1.png)](./examples_txt2img/smiley.txt)
+[![SMILEY IMAGE 2](./examples_txt2img/smiley_px2.png)](./examples_txt2img/smiley.txt)
+[![SMILEY IMAGE 3](./examples_txt2img/smiley_px3.png)](./examples_txt2img/smiley.txt)
 
 #### Small Pixel Art
 
-[![IMAGE](/examples_txt2img/pixelart.png)](/examples_txt2img/pixelart.txt)
+[![IMAGE](./examples_txt2img/pixelart.png)](/examples_txt2img/pixelart.txt)
 
 ### Instructions 
 
@@ -168,7 +168,7 @@ This can be used to fastly create blueprints, for example when deriving a logo f
 
 The program takes an existing image as input, here `chickens.png`:
 
-[![CHICKEN IMAGE](./examples_img2txt/chickens.png)](./examples_img2txt/chickens.txt)
+![CHICKEN IMAGE](./examples_img2txt/chickens.png)
 
 The generated output will be saved under the file name `chickens_converted.png` (text abbreviated):
 
