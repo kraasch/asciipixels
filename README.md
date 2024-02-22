@@ -214,7 +214,7 @@ If this is not enough the *threshold* should be raised, such that less new color
 
 Example output can be found in the sub folder `examples_img2txt/`.
 
-## tasks
+## Tasks
 
    - `AsciiPixels.java`.
      - next
