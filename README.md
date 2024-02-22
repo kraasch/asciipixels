@@ -114,15 +114,15 @@ XXXXXgXXXXX
 
 #### Colors and Shapes
 
-![IMAGE COLORS](./examples_txt2img/colors.png)
+[![IMAGE COLORS](./examples_txt2img/colors.png)](./examples_txt2img/colors.txt)
 
 Other images can be created similarly.
 The corresponding text files are contained within the project directory.
 
 #### Icons
 
-![IMAGE BOOK](./examples_txt2img/book.png) ![IMAGE GRAPES](./examples_txt2img/grapes.png)<br/>
-![IMAGE HEART](./examples_txt2img/heart.png) ![IMAGE LEMON](./examples_txt2img/lemon.png)
+[![IMAGE BOOK](./examples_txt2img/book.png)](./examples_txt2img/book.txt) [![IMAGE GRAPES](./examples_txt2img/grapes.png)](./examples_txt2img/grapes.txt)<br/>
+[![IMAGE HEART](./examples_txt2img/heart.png)](./examples_txt2img/heart.txt) [![IMAGE LEMON](./examples_txt2img/lemon.png)](./examples_txt2img/lemon.txt)
 
 #### Comparison of Different Germanic languages
 
@@ -131,17 +131,17 @@ It is an extract of a [vocabulary comparison](https://en.wikipedia.org/wiki/Germ
 
 Colors of vowels are **a** - *red*, **e** - *orange*, **i** - *yellow*, **o** - *green*, **u** - *blue*, **ä** - *purple*, **ö** - *brown*, **ü** - *pink*.
 
-![IMAGE SHIFT](./examples_txt2img/soundshifts.png)
+[![IMAGE SHIFT](./examples_txt2img/soundshifts.png)](./examples_txt2img/soundshifts.txt)
 
 #### A Smiley
 
-![SMILEY IMAGE 1](./examples_txt2img/smiley_px1.png)
-![SMILEY IMAGE 2](./examples_txt2img/smiley_px2.png)
-![SMILEY IMAGE 3](./examples_txt2img/smiley_px3.png)
+[![SMILEY IMAGE 1](./examples_txt2img/smiley_px1.png)](./examples_txt2img/smiley_px1.txt)
+[![SMILEY IMAGE 2](./examples_txt2img/smiley_px2.png)](./examples_txt2img/smiley_px2.txt)
+[![SMILEY IMAGE 3](./examples_txt2img/smiley_px3.png)](./examples_txt2img/smiley_px3.txt)
 
 #### Small Pixel Art
 
-![IMAGE](/examples_txt2img/pixelart.png)
+[![IMAGE](/examples_txt2img/pixelart.png)](/examples_txt2img/pixelart.txt)
 
 ### Instructions 
 
@@ -168,7 +168,7 @@ This can be used to fastly create blueprints, for example when deriving a logo f
 
 The program takes an existing image as input, here `chickens.png`:
 
-![CHICKEN IMAGE](./examples_img2txt/chickens.png)
+[![CHICKEN IMAGE](./examples_img2txt/chickens.png)](./examples_img2txt/chickens.txt)
 
 The generated output will be saved under the file name `chickens_converted.png` (text abbreviated):
 
@@ -200,7 +200,7 @@ BiieXeeeeXeTgpqno
 
 The resulting text file can then be converted into a *pixel graphic*, as seen before.
 
-![CHICKEN IMAGE](./examples_img2txt/chickens_converted.png)
+[![CHICKEN IMAGE](./examples_img2txt/chickens_converted.png)](./examples_img2txt/chickens_converted.txt)
 
 ### Instructions
 
