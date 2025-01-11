@@ -169,6 +169,7 @@ This can be used to fastly create blueprints, for example when deriving a logo f
 The program takes an existing image as input, here `chickens.png`:
 
 ![CHICKEN IMAGE](./examples_img2txt/chickens.png)
+
 *—Image by [Andrei Niemimäki](https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg) from Turku, Finland CC BY-SA 2.0 on Wikimedia Commons.*
 
 The generated output will be saved under the file name `chickens_converted.png` (text abbreviated):
