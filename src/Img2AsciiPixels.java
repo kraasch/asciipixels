@@ -15,6 +15,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.lang.StringBuffer;
 import java.util.stream.Collectors;
+import java.util.Scanner;
 // TODO: imports, remove some .
 
 public class Img2AsciiPixels {
@@ -43,8 +44,10 @@ public class Img2AsciiPixels {
     
     public static void main(String[] args) {
 	
-	// input . TODO .
-	String fileName = "chickens.png";
+	// input .
+      Scanner scanner = new Scanner(System.in);
+      String fileName = scanner.nextLine();
+      System.out.println("Reading file at '" + fileName + "'.");
 	int lastIndex = fileName.lastIndexOf(".");
 	String fileCore = fileName.contains(".") ? fileName.substring(0, lastIndex) : fileName; // split at most-right '.' .
 	fileCore += "_converted";
